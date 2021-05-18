@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1 {
+    color: crimson;
+    border-style: solid;
+    border-color: cornsilk;
+    border-width: 2px;
+}
+
+h3 {
+    color: yellow;
+
+
+}
+
+h5,
+p {
+
+    color: navy;
+}
